@@ -1,20 +1,26 @@
 <div align="center">
 
-**Analyst | Developer | Commodities | Energy | Financial Markets**
+# Gihan (G) Mallikarachchige
 
-📍 London, United Kingdom
+![Analyst](https://img.shields.io/badge/Analyst-0F172A?style=for-the-badge)
+![Developer](https://img.shields.io/badge/Developer-0F172A?style=for-the-badge)
+![Commodities](https://img.shields.io/badge/Commodities-0F172A?style=for-the-badge)
+![Energy](https://img.shields.io/badge/Energy-0F172A?style=for-the-badge)
+![Financial Markets](https://img.shields.io/badge/Financial%20Markets-0F172A?style=for-the-badge)
+
+![Location](https://img.shields.io/badge/London%2C%20United%20Kingdom-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 
 
-## About Me
+## 📖 About Me
 
-C.
 
-<div align="center">
+Currently a Short Term Analyst / Developer at Smartest Energy focussing Intraday/Day Ahead European Power Markets. Also, through previous roles, have experience
+in Gas, Renewable and Oil markets specificaly within Europe. Interested in applying technology and quantitiative skills to difficult lucrative problems and being at
+the cutting edge of technology, markets and current affairs.
 
 
 ## 🛠 Tech Stack
-<div align="center">
   
 **Languages**
 
@@ -49,10 +55,8 @@ C.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-</div>
 
 
-<div align="center">
 
 
 ## 📫 Get in Touch
@@ -61,6 +65,9 @@ C.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gmallik/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gihanmallik@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gmprojects-ctrl)
+
+</div>
+
 
 
 </div>
